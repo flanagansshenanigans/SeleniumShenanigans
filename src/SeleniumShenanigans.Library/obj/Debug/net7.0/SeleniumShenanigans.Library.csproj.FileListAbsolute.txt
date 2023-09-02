@@ -1,0 +1,15 @@
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\bin\Debug\net7.0\SeleniumShenanigans.Library.deps.json
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\bin\Debug\net7.0\SeleniumShenanigans.Library.dll
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\bin\Debug\net7.0\SeleniumShenanigans.Library.pdb
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.csproj.AssemblyReference.cache
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.AssemblyInfoInputs.cache
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.AssemblyInfo.cs
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.csproj.CoreCompileInputs.cache
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.dll
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\refint\SeleniumShenanigans.Library.dll
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\SeleniumShenanigans.Library.pdb
+C:\Users\insti\OneDrive\Desktop\demos\Selenium\SeleniumShenanigans\src\SeleniumShenanigans.Library\obj\Debug\net7.0\ref\SeleniumShenanigans.Library.dll
